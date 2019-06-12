@@ -6,6 +6,9 @@
         "cache",
         "cache graph"
     ],
+    "require" : {
+        "sproutwp/sprout_interfaces" : "*@dev"
+    },
     "autoload": {
         "psr-4": {
             "SproutCache\\": ""
