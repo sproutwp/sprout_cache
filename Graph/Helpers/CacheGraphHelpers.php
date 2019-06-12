@@ -4,7 +4,7 @@
  * @subpackage SproutCache\Graph\Helpers
  * @since 1.0.0
  */
-namespace SproutCache\Graph\Helpers;
+namespace Sprout\SproutCache\Graph\Helpers;
 
 /**
  * Class that handles the chain deletion of transients and their dependenants.

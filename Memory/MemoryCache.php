@@ -4,9 +4,9 @@
  * @subpackage SproutCache/Memory
  * @since 1.0.0
  */
-namespace SproutCache\Memory;
+namespace Sprout\SproutCache\Memory;
 
-use SproutInterfaces\ModuleInterface;
+use Sprout\SproutInterfaces\ModuleInterface;
 
 /**
  * Class that contains methods related to saving items in the memory only.

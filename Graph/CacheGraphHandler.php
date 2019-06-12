@@ -4,7 +4,7 @@
  * @subpackage SproutCache\Graph
  * @since 1.0.0
  */
-namespace SproutCache\Graph;
+namespace Sprout\SproutCache\Graph;
 
 final class CacheGraphHandler
 {

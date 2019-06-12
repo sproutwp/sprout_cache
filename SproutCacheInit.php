@@ -4,9 +4,9 @@
  * @subpackage SproutCache
  * @since 1.0.0
  */
-namespace SproutCache;
+namespace Sprout\SproutCache;
 
-use SproutInterfaces\ModuleInterface;
+use Sprout\SproutInterfaces\ModuleInterface;
 
 final class SproutCacheInit implements ModuleInterface
 {
