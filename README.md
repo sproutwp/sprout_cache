@@ -1,4 +1,6 @@
 # Sprout Cache
+_Make sure you understand the trade-off between executing code & hitting the database for a transient. It might seem appealing to store the result of code execution in the database and it might seem like an optimization to only have it deleted when it needs to and not on a timer, but it might not be worth it._
+
 A smart graph caching system that can be used to clear transients on certain actions or based on logic, not just on time. Often used together with the SproutServices to output data from private parts of a system that need to be re-generated every time the authorized user re-accesses the resource that generated the data to begin with.
 
 ## Use Cases
