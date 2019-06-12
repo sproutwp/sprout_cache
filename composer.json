@@ -1,0 +1,14 @@
+{
+    "name" : "sproutwp/sprout_cache",
+    "description" : "A smart cache graph system for WordPress, as used by the Sprout Framework",
+    "version" : "1.0.0-dev",
+    "keywords" : [
+        "cache",
+        "cache graph"
+    ],
+    "autoload": {
+        "psr-4": {
+            "SproutCache\\": ""
+        }
+    }
+}
