@@ -6,6 +6,10 @@
  */
 namespace Sprout\SproutCache\Graph\Wrappers;
 
+/**
+ * A class containing methods that offer functionality that accesses the internal processes of the module
+ * in a clear & concise way.
+ */
 final class SproutCacheGraphWrappers
 {
         /**

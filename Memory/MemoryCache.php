@@ -1,10 +1,8 @@
 <?php
 /**
  * @package Sprout
- * @subpackage Helpers/Errors
+ * @subpackage SproutCache/Memory
  * @since 1.0.0
- *
- * @see Learn more about why this was built at documentation.com/sprout-error-handling
  */
 namespace SproutCache\Memory;
 
